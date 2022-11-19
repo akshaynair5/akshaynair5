@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaynair5 s
-- 👀 Currently persuing a computer science degree in VIT bhopal
+- 👀 Currently persuing a computer science degree in VIT
 - 💞️ Do hit me up for Web Dev projects!!.
 - C++ || HTML || CSS || JQuery || PHP || Javascript || MYSQL
 
