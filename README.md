@@ -1,5 +1,8 @@
 - Hey, I’m Akshay Mathilkath Nair
-- To get to know me visit - https://akshaynair5.github.io/Akshay-Nair/
+- To get to know me visit - 
+-    Portfolio - https://akshaynair5.github.io/Akshay-Nair/
+-    Instagram - https://instagram.com/akshay.nair_?igshid=YWJhMjlhZTc=
+
 - C++ || HTML || CSS || PHP || Javascript || React js
 
 <!---
