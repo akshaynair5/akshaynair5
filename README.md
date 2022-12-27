@@ -1,4 +1,4 @@
-- Hey, I’m @akshaynair5 
+- Hey, I’m Akshay Mathilkath Nair
 - To get to know me visit - https://akshaynair5.github.io/Akshay-Nair/
 - C++ || HTML || CSS || PHP || Javascript || React js
 
