@@ -1,5 +1,5 @@
 - Hey, I’m @akshaynair5 
-- 👀 Currently persuing a computer science degree in VIT
+- To get to know me visit - https://akshaynair5.github.io/Akshay-Nair/
 - C++ || HTML || CSS || PHP || Javascript || React js
 
 <!---
