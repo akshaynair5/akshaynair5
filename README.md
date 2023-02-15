@@ -1,4 +1,4 @@
-- Hey, I’m Akshay Mathilkath Nair
+- Hey, I’m Akshay Mathilkath Nair.
 - To contact me/Know more about me visit - 
 -    Portfolio - https://akshaynair5.github.io/Akshay-Nair/
 -    Instagram - https://instagram.com/akshay.nair_?igshid=YWJhMjlhZTc=
