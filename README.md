@@ -3,7 +3,6 @@
 -    Portfolio - https://akshaynair5.github.io/Akshay-Nair/
 -    Instagram - https://instagram.com/akshay.nair_?igshid=YWJhMjlhZTc=
 
-- C++ || HTML || CSS || PHP || Javascript || React.js || Node.js
 - ## ⚡ Tech Stack
 
 ### 🚀 Languages
