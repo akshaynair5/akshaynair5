@@ -3,8 +3,6 @@
 -    Portfolio - https://akshaynair5.github.io/portfolio/
 -    Instagram - https://instagram.com/akshay.nair_?igshid=YWJhMjlhZTc=
 
-
-
 - ## ⚡ Tech Stack
 
 ### 🚀 Languages
