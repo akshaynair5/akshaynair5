@@ -1,5 +1,5 @@
 - Hey, I’m Akshay Mathilakath Nair !!!
-- To know more about me visit-
+- To know more about me visit -
 -    Portfolio - https://akshaynair5.github.io/portfolio/
 -    Instagram - https://instagram.com/akshay.nair_?igshid=YWJhMjlhZTc=
 
