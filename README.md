@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at - [Portfolio](https://akshaynair5.github.io/portfolio/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XCa3_TPnH6lkIVL7zblgZpYvx9SDNpmf/view?usp=sharing)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1XCa3_TPnH6lkIVL7zblgZpYvx9SDNpmf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
