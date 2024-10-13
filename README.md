@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaynair5" alt="akshaynair5" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://akshaynair5.github.io/portfolio/](https://akshaynair5.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at - [Portfolio](https://akshaynair5.github.io/portfolio/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XCa3_TPnH6lkIVL7zblgZpYvx9SDNpmf/view?usp=sharing](https://drive.google.com/file/d/1XCa3_TPnH6lkIVL7zblgZpYvx9SDNpmf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XCa3_TPnH6lkIVL7zblgZpYvx9SDNpmf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
