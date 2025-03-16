@@ -1,8 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Akshay Nair</h1>
 <h3 align="center">A passionate full stack developer from India!</h3>
 
-- 👨‍💻 All of my projects are available at - [Portfolio](https://akshaynair5.github.io/portfolio/)
-
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1XCa3_TPnH6lkIVL7zblgZpYvx9SDNpmf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
